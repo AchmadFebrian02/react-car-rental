@@ -1,0 +1,19 @@
+#WhyUs {
+    padding-top: 7rem;
+}
+
+.whyus-text {
+    font-size: 14px;
+}
+
+@media screen and (max-width: 991px) {
+    .why-us-card {
+        margin: 8px 0;
+    }
+    #WhyUs{
+        text-align: center;
+    }
+    .whyus-text{
+        text-align: center;
+    }
+}
